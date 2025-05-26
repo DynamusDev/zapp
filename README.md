@@ -1,4 +1,4 @@
-# Zapp
+# Zapp - Products, quick search & zap-fast UX
 
 A sleek mobile product catalog built with React Native (Expo), TypeScript, Zustand, React Query, and Axios.
 
