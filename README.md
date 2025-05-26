@@ -23,7 +23,7 @@ A sleek mobile product catalog built with React Native (Expo), TypeScript, Zusta
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/cataview.git
+git clone git@github.com:DynamusDev/zapp.git
 cd cataview
 npm install --legacy-peer-deps
 npx expo start
