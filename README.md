@@ -18,7 +18,6 @@ A sleek mobile product catalog built with React Native (Expo), TypeScript, Zusta
 - View product details
 - Clean architecture
 - Deep linking (bonus)
-- (Optional) Calendar event native module
 
 ## 📦 Installation
 
@@ -28,7 +27,6 @@ cd cataview
 npm install --legacy-peer-deps
 npx expo start
 ```
-
 
 ![IMG_6464](https://github.com/user-attachments/assets/9b07048d-fc81-42f1-b895-3b7e4f4abc7a)
 
